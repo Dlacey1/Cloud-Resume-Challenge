@@ -31,7 +31,7 @@ Continuous Integration/Continuous Deployment (CI/CD): automates the deployment p
 - <b>Lambda</b>
 - <b>WAF</b> 
 - <b>CI/CD</b>
-- <b>VPC</b>
+- <b>ACM</b>
 - <b>S3</b>
 
 - <b>HTML</b> 
